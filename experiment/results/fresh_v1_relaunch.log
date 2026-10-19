@@ -1,0 +1,12 @@
+<All keys matched successfully>
+s128_o0: 4291 chunks, embed cached
+s128_o10: 4763 chunks, embed cached
+s128_o20: 5347 chunks, embed cached
+[transformers] Detected the usage of `get_extended_attention_mask`: This function is deprecated and will be removed in v5.12.0. Please use the new API in `transformers.masking_utils`
+s256_o0: 2168 chunks, embed 1035s
+s256_o10: 2398 chunks, embed 1090s
+s256_o20: 2671 chunks, embed 1211s
+s512_o0: 1108 chunks, embed 1042s
+s512_o10: 1213 chunks, embed 1782s
+s512_o20: 1350 chunks, embed 1605s
+100 papers, 287 questions -> results\fresh_v1 (7768.0s)

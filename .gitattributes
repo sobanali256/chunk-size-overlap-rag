@@ -1,0 +1,3 @@
+# Store every file byte-for-byte so the SHA-256 hashes in
+# experiment/manifests/frozen_at_launch.sha256 match after any checkout.
+* -text

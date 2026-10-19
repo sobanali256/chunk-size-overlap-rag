@@ -1,0 +1,11 @@
+A:    6202 checks
+B:    3519 checks
+C:    3601 checks
+D:   10332 checks
+E:   92990 checks
+F:   19804 checks
+G:     450 checks
+H:      72 checks
+I:     205 checks
+total: 137175 checks, 0 mismatches
+warning: [F] per_paper.csv: 8 paper ids lost trailing zeros (e.g. 1604.004 for 1604.00400); values are unaffected

@@ -1,0 +1,23 @@
+# Generated or downloaded; not part of the repository
+cache/
+experiment/cache/
+data/
+__pycache__/
+*.pyc
+audit_bundle_*.zip
+*.tmp
+
+# Pilot-era drafts and outputs, kept locally only
+article_final_pilot.md
+article_original.md
+article_updates.md
+results_section.md
+results/*
+!results/budget2048/
+results/budget2048/*
+!results/budget2048/per_question.csv
+!results/budget2048/results.csv
+run_log*.txt
+chunk_experiment.py
+analyze.py
+article_final.md

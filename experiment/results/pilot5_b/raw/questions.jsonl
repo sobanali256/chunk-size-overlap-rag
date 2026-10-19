@@ -1,0 +1,12 @@
+{"paper_id": "1703.04001", "question_id": "1703.04001-q1", "question": "Does the experiments focus on a specific domain?", "spans": [[4958, 5300]], "type": "multi-sentence"}
+{"paper_id": "1703.07090", "question_id": "1703.07090-q1", "question": "how small of a dataset did they train on?", "spans": [[7078, 7207]], "type": "factoid"}
+{"paper_id": "1605.07333", "question_id": "1605.07333-q1", "question": "Which dataset do they train their models on?", "spans": [[10469, 10774]], "type": "multi-sentence"}
+{"paper_id": "1605.07333", "question_id": "1605.07333-q2", "question": "How does their simple voting scheme work?", "spans": [[14469, 14760]], "type": "multi-sentence"}
+{"paper_id": "1605.07333", "question_id": "1605.07333-q3", "question": "Which variant of the recurrent neural network do they use?", "spans": [[13144, 13273]], "type": "factoid"}
+{"paper_id": "1605.07333", "question_id": "1605.07333-q4", "question": "How do they obtain the new context represetation?", "spans": [[1637, 1739], [4471, 4618], [4783, 4985], [5084, 5252]], "type": "multi-part"}
+{"paper_id": "1604.08504", "question_id": "1604.08504-q1", "question": "LDA is an unsupervised method; is this paper introducing an unsupervised approach to spam detection?", "spans": [[12690, 12836], [12937, 13072]], "type": "multi-sentence"}
+{"paper_id": "1604.08504", "question_id": "1604.08504-q2", "question": "What is the benchmark dataset and is its quality high?", "spans": [[10497, 10647], [11399, 11970]], "type": "multi-part"}
+{"paper_id": "1604.08504", "question_id": "1604.08504-q3", "question": "How do they detect spammers?", "spans": [[7978, 8255], [8257, 8393], [9582, 9721], [12690, 12836]], "type": "multi-part"}
+{"paper_id": "1702.03856", "question_id": "1702.03856-q1", "question": "what is the domain of the corpus?", "spans": [[3505, 3687]], "type": "factoid"}
+{"paper_id": "1702.03856", "question_id": "1702.03856-q2", "question": "what challenges are identified?", "spans": [[3688, 3910]], "type": "factoid"}
+{"paper_id": "1702.03856", "question_id": "1702.03856-q3", "question": "what is the size of the speech corpus?", "spans": [[6204, 6483]], "type": "multi-sentence"}

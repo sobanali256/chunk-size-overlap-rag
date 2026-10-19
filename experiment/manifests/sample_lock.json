@@ -1,0 +1,12 @@
+{
+ "qasper_file": "..\\data\\qasper_raw\\qasper-dev-v0.3.json",
+ "qasper_sha256": "2ae7ee62a65b1c4225791c70de80c2aad4e8998cf1fd4f09a53103db4f21af93",
+ "n_papers_requested": 100,
+ "seed": 20261017,
+ "procedure": "sorted(eligible unused paper ids) -> random.Random(seed).shuffle -> first n_papers",
+ "n_eligible_unused_papers": 231,
+ "n_selected_papers": 100,
+ "n_selected_questions": 287,
+ "paper_manifest_sha256": "03f7948312167cc4c057962883341dc7b411c3777260428e20fe83292109ede6",
+ "question_manifest_sha256": "af48e09131e466f6f95fff3cdd9645306b65bbd636e0586321be408d41fbf642"
+}

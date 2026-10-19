@@ -1,0 +1,41 @@
+--- EXPERIMENT_PROTOCOL_at_launch.md
++++ EXPERIMENT_PROTOCOL.md (current)
+@@ -248,3 +248,38 @@
+ the whole run is discarded and re-run from scratch. No partial or selective retention.
+ 
+ **Deviations:** none so far.
++
++**Operational log (no change to the protocol):**
++
++- **2026-10-17, 03:05–04:42 (+05:00).** The first launch, `results/fresh_v1`, was stopped at the author's
++  request (overnight break), before any metric file was written. It had finished embedding s128_o0/o10/o20;
++  the only output was a partial `raw/rankings.jsonl`. No metric was computed or inspected. The partial
++  output is kept, unanalysed, in `results/fresh_v1_interrupted/`. The run will be relaunched from scratch with
++  the same frozen code and command. The cached embeddings of the three finished configurations are reused
++  through the content-hash cache, which was shown to give byte-identical results to an uncached run
++  (SMOKE_TEST_REPORT #5).
++- **2026-10-17, after the analysis and verify step.** An external audit noted that `src/verify.py` (frozen) checks
++  only part of the per-question fields. A new script, `verify_all_fields.py`, was added; it is not one of the
++  frozen files, and `src/verify.py` is unchanged. It recomputes every field of every row in `raw/`, the
++  per-paper means, the summary, the engineering measures, the failure counts and Holm exactly, and re-estimates
++  the permutation p-values and bootstrap CIs by independent Monte Carlo within a stated tolerance. On
++  `results/fresh_v1` it ran 137,173 checks with 0 mismatches (`results/fresh_v1_verify_all_fields.log`). It
++  flagged one cosmetic defect: `aggregated/per_paper.csv` writes 8 paper IDs without trailing zeros (for example
++  `1604.004` for `1604.00400`), because `src/reporting.py` reads paper IDs as numbers. The 100 IDs stay distinct,
++  so no value or test is affected. No result file was changed.
++- **2026-10-17, figure wording.** To match the article's corrected terminology, `figures/complete_by_config.png`
++  was redrawn by a new script, `replot_complete_by_config.py`, as `figures/complete_by_config_upper_bound.png`.
++  The footnote changes from "Completable ceiling" to "Completable (chunk-fit upper bound)", and nothing else
++  changes. The script copies the frozen drawing code from `src/reporting.py` (unchanged) and reads only
++  `aggregated/summary.csv`. Drawn with the original footnote, it reproduces the original PNG pixel for pixel.
++  The original figure is kept.
++- **2026-10-19, post-audit housekeeping (no result changed).** (1) `verify_all_fields.py` now also checks the
++  `sample` column of `raw/per_question.csv` against `run_metadata.json`; the 2026-10-17 version checked every
++  other column but not this one. (2) A new script, `export_canonical_ids.py`, writes
++  `aggregated/per_paper_canonical_ids.csv`: `per_paper.csv` with the 8 shortened paper IDs restored to their
++  canonical strings (for example `1604.00400`). It checks that the mapping is one-to-one and that every other
++  column is unchanged. `per_paper.csv` itself is left as the frozen pipeline wrote it; use the canonical-ID file
++  to join per-paper results to the manifests. The verifier checks that file too. Rerun on `results/fresh_v1`:
++  137,175 checks, 0 mismatches (`results/fresh_v1_verify_all_fields.log`). A mutation test (a changed `sample`
++  value and a shortened ID in the canonical file) was caught. `src/reporting.py` is not changed, so the frozen
++  hashes of the code still match.

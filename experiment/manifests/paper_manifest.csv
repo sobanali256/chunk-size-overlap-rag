@@ -1,0 +1,282 @@
+paper_id,title,status,n_qas,n_eligible_questions,doc_chars,doc_sha256,selected
+1503.00841,Robustly Leveraging Prior Knowledge in Text Classification,eligible,4,4,23727,445bdfb3c307a944cf8b2f852d8a91bf4ccf6ede8a5112a589f5550a0bf0f98d,False
+1601.02403,Argumentation Mining in User-Generated Web Discourse,eligible,6,5,98340,d0d19e8263a57d6e02d637cd3f18c78adbdccdb181a4526670520438df5719da,False
+1603.01514,A Bayesian Model of Multilingual Unsupervised Semantic Role Induction,eligible,7,5,25118,e4992b5394a7b0282dea17bf52b336f325ea3356a73b8347132652931553e1ec,True
+1603.01987,A matter of words: NLP for quality evaluation of Wikipedia medical articles,eligible,1,1,33209,416cd75ef3f8ed6c062663469dfb2c9d81ecbd7ea735ef726b1445aef04f32ea,False
+1603.08594,Prepositional Attachment Disambiguation Using Bilingual Parsing and Alignments,eligible,2,2,14813,a2023c980872d0481bae34e2f08e14239627abdcff71278a9c3da14694eb64f4,True
+1603.09631,Data Collection for Interactive Learning through the Dialog,eligible,2,2,18200,818b69d3a80ef9e2561155a920071a182bd3c2e51423126d4deebb100da9dcf1,True
+1604.00400,Revisiting Summarization Evaluation for Scientific Articles,eligible,5,5,33412,75d71c07217a56c6193f078a23960da8e336bb76ee92eed9402de71f69d78c51,True
+1604.00727,Character-Level Question Answering with Attention,eligible,2,2,24387,3aa31ed01e708bddc4332a112a58b3d7bb024132aa623b71f82743dd33151aa1,False
+1604.03114,Conversational flow in Oxford-style debates,eligible,2,2,16865,9c87bfd1e62dbacfae00e71d1b8b5897e9d1861d6b060838a9bba091cbd5818a,True
+1604.05372,Clustering Comparable Corpora of Russian and Ukrainian Academic Texts: Word Embeddings and Semantic Fingerprints,eligible,1,1,17825,6b741babc4e66263515baf6953dd3ca4f3749a05a850b976964c16f7a5986c58,False
+1604.08504,"Detecting""Smart""Spammers On Social Network: A Topic Model Approach",pilot_used,3,3,15952,2286c7873673e62b9bd6c030ccdab6cdec9776293c24d4f2f50ae045da44679c,False
+1605.03481,Tweet2Vec: Character-Based Distributed Representations for Social Media,eligible,5,5,16286,acf54780adfb24339b46ca44c3c20355eba0a7718efdaac8edc9f2701a49ac03,True
+1605.06083,Stereotyping and Bias in the Flickr30K Dataset,eligible,4,3,14065,f9d7a4d9df3f50b50e4795bb9b800ba7c1c7afed53f8c9ef2c92c800f1eebe68,True
+1605.07333,Combining Recurrent and Convolutional Neural Networks for Relation Classification,pilot_used,5,4,16443,854d393021dee67f4489c527dfac25cea70878b1eaf9497ad20f240c767a006c,False
+1606.02891,Edinburgh Neural Machine Translation Systems for WMT 16,eligible,1,1,13713,1683665e4f688a72fa8a01f380eb3c41980e2ad417a0d8998da66eae9f5eff84,False
+1606.03676,External Lexical Information for Multilingual Part-of-Speech Tagging,eligible,2,2,18737,b645e877111569cc20f3b96a4ef457aea6784e03c47e09637dc1704db4367fc1,False
+1608.01084,To Swap or Not to Swap? Exploiting Dependency Word Pairs for Reordering in Statistical Machine Translation,eligible,1,1,27300,f3a1c9a486030ac7c8897403ea9e8d233f0d830a037beff7c31c85a5034a0301,False
+1608.01884,Winograd Schemas and Machine Translation,eligible,4,4,14689,c768af4379d92101d3a0aca06634b67c0e833e0ab6a3902264b0a050ecc48de8,False
+1608.06757,Robust Named Entity Recognition in Idiosyncratic Domains,eligible,2,1,20193,83dcd8096afc10fad570e3100a5cb123cb629a9733fd31a3a40211ba79cf32b1,True
+1608.08188,Visual Question: Predicting If a Crowd Will Agree on the Answer,eligible,2,1,26625,b2d99e69984f9e82c695c23bb091ec47d64d46e4986c79363f5ef4211955443e,True
+1609.00425,Identifying Dogmatism in Social Media: Signals and Models,eligible,2,2,27830,6e1d72f28ce88dcef0f4b5b881643c65cb9a1b378331777c5fad71db08b844a2,False
+1609.00559,Improving Correlation with Human Judgments by Integrating Semantic Similarity with Second--Order Vectors,eligible,3,3,28803,86827e62a882c2990ea31a5e22e169dcfac2851bb96a37dced5fe98c2c22d61f,False
+1610.00956,Embracing data abundance: BookTest Dataset for Reading Comprehension,eligible,3,3,26868,50e0a2f24904f735d2f53f378e9034408257b5dd8623cd25053bf7391a99a96f,False
+1610.07809,How Document Pre-processing affects Keyphrase Extraction Performance,eligible,3,3,12917,ef5d89d307fce080a32495c663b9072be77a6eb901a654be64df3215f49e03b0,False
+1610.08815,A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks,eligible,3,3,32578,3b4828a79dcea9a3d24f325a3507e2ccd377f2156f8f4839266164fa364e7902,False
+1610.09225,Sentiment Analysis of Twitter Data for Predicting Stock Market Movements,eligible,3,2,17555,7ea970c33cf976170eeedae167c52714d7e8aec9682652d9915b44b892172743,False
+1611.01576,Quasi-Recurrent Neural Networks,eligible,3,3,24278,dbd5d05f1dd3367ef30a65383547f7acd7d81144122aeda77609f2c022bd54fd,True
+1611.02988,Distant supervision for emotion detection using Facebook reactions,eligible,3,3,22172,f47b3719722cfc53183602dd3d9bab62b61bb67aaeb610b542619972095f85ad,True
+1611.03599,UTCNN: a Deep Learning Model of Stance Classificationon on Social Media Text,eligible,6,5,30181,6091d31999e33890e5f5096b949e443a6b5d65c8c1545af76132698a32abb198,True
+1611.04798,Toward Multilingual Neural Machine Translation with Universal Encoder and Decoder,eligible,4,2,30001,03673c25bac69a708844304ebfffd920a46910883f1d450c0d87f1954a058ce1,False
+1611.08661,Knowledge Graph Representation with Jointly Structural and Textual Encoding,eligible,4,3,22932,2ea791b1430d29e9f082ed33f2231d5dbc6c204159fecb2e8e8ca835fc80431b,False
+1612.02482,Improving the Performance of Neural Machine Translation Involving Morphologically Rich Languages,eligible,2,1,35394,f5964f014815a5af52525a3401315824bc2d136879dc2a98b59a87953550d8b5,False
+1612.03226,Active Learning for Speech Recognition: the Power of Gradients,eligible,4,4,11796,73e918292fea03e0cf935b5fa62c2048bafc6cdd3ef0ddc0be6198096bd75616,True
+1612.06685,"Stateology: State-Level Interactive Charting of Language, Feelings, and Values",eligible,3,3,9750,bf7797e412d01618c1e878b5328b631c98462cee79ccdc6f83c66e42572cf7d3,False
+1612.08205,Predicting the Industry of Users on Social Media,eligible,5,4,28028,17c497f74cabb6c05e56f6f2f98ecf3414dbfb4e40a8856a0e032007292621cc,False
+1701.02962,Distinguishing Antonyms and Synonyms in a Pattern-based Neural Network,eligible,1,1,25198,8356c76cd7059c25c446bacd3ed89b16b8fb556352d02956c7535fce36be825f,True
+1701.04056,Dialog Context Language Modeling with Recurrent Neural Networks,eligible,1,1,17009,ec8d1ef4a6c5117c49b3a0c5e45f4cbbb842f8f6275bbc7f095195dfe5e4a6de,False
+1701.05574,Harnessing Cognitive Features for Sarcasm Detection,eligible,5,2,24903,b97d5d15d1fe53f2e2f27c960be2952a4ba86f9d0955bbf5f82e4480021e3b79,False
+1701.08229,Feature Studies to Inform the Classification of Depressive Symptoms from Twitter Data for Population Health,eligible,4,4,14907,d5a1d9eecc526d360d1c1ca45f45190c07ebcb79a86029ae42aa1e9afe8c7357,True
+1702.03342,Learning Concept Embeddings for Efficient Bag-of-Concepts Densification,eligible,4,3,27638,30d42d1ceacd7ec45f7c98d374440f451ad607e9fc3fb61d82d27732b761fc0f,False
+1702.03856,Towards speech-to-text translation without speech recognition,pilot_used,3,3,10153,8fb48fcf35c317da275ca0fb8425fed68712e1247c244f6f1c0d9a314f165f6c,False
+1703.04001,Language Use Matters: Analysis of the Linguistic Structure of Question Texts Can Characterize Answerability in Quora,pilot_used,3,1,10937,8d2a9139c03b7f5cfc6a9d865d8aabbb55e9b6c671a65eb5f600f3c21c7c8695,False
+1703.07090,Deep LSTM for Large Vocabulary Continuous Speech Recognition,pilot_used,3,1,28903,f2ad01ad2826b40667595a9fbcfe251b4b05ebe52d46d8a4a6f81d7151334a2c,False
+1703.07476,Topic Identification for Speech without ASR,eligible,2,2,23364,c272960e413d37ffcc5f5a1df9a8090e02c236761f366329929f29f86f7fc340,False
+1703.10344,Automated News Suggestions for Populating Wikipedia Entity Pages,eligible,6,5,51819,f5fc10f3c7bb58953b207915de2ee72ba20a0922258c94ec1c50255bcc310cbe,False
+1704.04452,Bringing Structure into Summaries: Crowdsourcing a Benchmark Corpus of Concept Maps,eligible,6,3,28258,3d5e22aec8e0fcc09f9c77042e52103f86a7cedb703ae2a427f5556dc719b634,False
+1704.06194,Improved Neural Relation Detection for Knowledge Base Question Answering,pilot_used,4,4,30627,61c39a2ae97694cbcd981f54ad0763bb30e41437fe3c8921d25c3094743e6ece,False
+1705.01214,A Hybrid Architecture for Multi-Party Conversational Systems,eligible,3,2,85501,8477acae984a78d7f44f27b4cbf57ff30a1a6d05001f64fea8acc1e4e559b6a8,False
+1705.01265,On the effectiveness of feature set augmentation using clusters of word embeddings,eligible,4,4,18370,0967bf1c3647373beb5ff6e5d5ef5d7d2426ef3988f2201307423df28532c611,False
+1705.04153,Dynamic Compositional Neural Networks over Tree Structure,eligible,2,1,25129,2b2d24c1baa2de5ab9284af30f69b7a98f575dc385f65d799152b0f7e8edb2d1,True
+1705.05437,A Biomedical Information Extraction Primer for NLP Researchers,eligible,2,2,20250,e93907d6cc1c3b0656782789bbf98cbdb95584f052c7c98da9834e8d7c939cd4,False
+1706.00139,Natural Language Generation for Spoken Dialogue System using RNN Encoder-Decoder Networks,eligible,2,2,24977,1942a7bb583193d745b63c737c6cc5e808eca2fd0417b0ba577ca702c7705f80,False
+1706.01678,Text Summarization using Abstract Meaning Representation,eligible,5,4,27969,763f41e115ac967ed512cd34e7db2069f597baf830d74614a02ad439ffc3e8b5,False
+1706.01875,Measuring Offensive Speech in Online Political Discourse,pilot_used,4,4,22960,7f7b6f8243e4142a8a7277768b82e988f02eecc04ac1c52508c23faf927d9c7c,False
+1706.06894,Stance Detection in Turkish Tweets,eligible,5,5,15335,068a3b0107812a9d9d39c693a2c93160bb9ea04070f8278720bfa3dc95c60fc3,False
+1706.08198,English-Japanese Neural Machine Translation with Encoder-Decoder-Reconstructor,eligible,2,2,15511,1fb67af7b88550733f46fb428ad37ec6cb9520ae9dcd02640a7cd2edfafd8db9,True
+1706.09673,Improving Distributed Representations of Tweets - Present and Future,eligible,4,2,13779,47bba1a93d3effe380333279012125e68bf48969d11bdf6a06b85ee807283081,True
+1707.03569,Multitask Learning for Fine-Grained Twitter Sentiment Analysis,pilot_used,3,2,18975,1aa10ba97e47543d8a63948bdc698e9b49a4c7e0eb301873a58069494218fbf9,False
+1707.05236,Artificial Error Generation with Machine Translation and Syntactic Patterns,eligible,5,4,14988,be6508d9a2d69981d3fe4834f40b11c109222553590835c19dfafc1863a9179e,False
+1707.06806,Shallow reading with Deep Learning: Predicting popularity of online content using only its title,eligible,6,5,16941,9c8a332cc98b0463a44f688fc2a0512216e036de0e6fbf7c54b32f0321ad3698,True
+1708.01464,Massively Multilingual Neural Grapheme-to-Phoneme Conversion,eligible,4,4,21850,e128e5e56c73f383d2bcafb24d241bbf79542bc7a8f7d065e5437dda2656a07d,True
+1708.06185,Seernet at EmoInt-2017: Tweet Emotion Intensity Estimator,eligible,3,3,12235,12de16ac5a2ff0c58c8f7f5e7545b1c413240dc791b59feaa47800f749eb9bb7,True
+1709.05036,Query-based Attention CNN for Text Similarity Map,eligible,2,1,16826,54513dc39865ec597636d89f18e2b24a68ee63918a0cfe9e4d08ad13610379fd,True
+1709.07814,Attention-based Wav2Text with Feature Transfer Learning,pilot_used,3,3,19232,fc1a36ef0685abf9b5e97988932e27556262c2785f8781327e7ea6ade1482af8,False
+1709.10367,Structured Embedding Models for Grouped Data,eligible,5,3,21765,618547153b2522dd059fa931d017a82350a831e00d9c58b7a338ca98f42c2cec,True
+1710.03348,What does Attention in Neural Machine Translation Pay Attention to?,eligible,3,3,22563,ccb5395fea8aca98657a026dd5645a8656cbe8a411abf111bede8c5cd43f03c9,False
+1710.04203,Crowdsourcing for Beyond Polarity Sentiment Analysis A Pure Emotion Lexicon,eligible,1,1,35029,2cf9e91c9ae20b0387586a00b6a3e7fd403dbc51e3236bade0d095257b184771,True
+1710.07960,How big is big enough? Unsupervised word sense disambiguation using a very large corpus,eligible,2,2,25081,46f9420dde7bd36e33c862a3c78a5f2394c28546845f82ecb2e35c396c011b35,False
+1712.00991,Mining Supervisor Evaluation and Peer Feedback in Performance Appraisals,pilot_used,7,5,21769,7bafc411dbabca8e540d7adda4049b99a7ce52f8f280214f8c8fba7a333c34d2,False
+1712.05608,A Novel Approach for Effective Learning in Low Resourced Scenarios,eligible,4,3,17486,8b9c5a7cc8acca67bc469c68d2038a149e59a244870fb2e73fdde396c9cb1949,True
+1712.05999,Characterizing Political Fake News in Twitter by its Meta-Data,eligible,6,5,20783,0681ccd6c371a5b9aa4460d83e39011d5a750ecd135a8303429ff136b27ed9b2,True
+1801.02073,Analysis of Wikipedia-based Corpora for Question Answering,eligible,4,3,13331,b45df8045028a50de86babb3c28b53a5d51f8bf6b5c414993ce71867f72af094,False
+1801.05147,Adversarial Learning for Chinese NER from Crowd Annotations,eligible,2,1,36782,df55aa839ea7b3d68ffdd5adead3908de4c5fde36ae2307596215a0661a1e2ea,True
+1801.06482,Deep Learning for Detecting Cyberbullying Across Multiple Social Media Platforms,eligible,2,2,22191,bc61c4fc2f52b1191c12711fcd4a41500c09866b44b0e963a95de508fb1e0df4,True
+1801.07887,Impact of Batch Size on Stopping Active Learning for Text Classification,eligible,2,2,7889,e68a8bfe7452da1f822c36948de90ef9efcbe06fd8e2733bd15119fc816905f5,False
+1801.10293,Paraphrase-Supervised Models of Compositionality,eligible,3,2,28417,9339dccc27604a09469670f5120577dd5b4c814415a2fc753d3345d8d208442c,False
+1802.00396,Disunited Nations? A Multiplex Network Approach to Detecting Preference Affinity Blocs using Texts and Votes,eligible,3,1,57906,7569f5a4a0b68507016d671adbe6456ff90187892bf7198e66a509f505b2e6cc,True
+1802.06024,Towards a Continuous Knowledge Learning Engine for Chatbots,eligible,6,4,38501,ee3b7f8d79555c237ee317e2f8d51ef8f10f27f25fa2fceb7c39e614d6acc095,True
+1802.07862,Multimodal Named Entity Recognition for Short Social Media Posts,pilot_used,5,5,26856,43f45de62221fe6048f96d5a603801eff8df794c870d5a9568ee5d4e030af6f3,False
+1802.08636,Ranking Sentences for Extractive Summarization with Reinforcement Learning,eligible,3,1,19535,23d88695b537128bb8fce614be3bfbd4fd442ce49ceb5d4d51cd219e648fc62b,False
+1803.05223,MCScript: A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge,eligible,4,4,29659,541801107d9d2a6a7b825f5035c7b2d93b5353f242f24d9e2b7b85293d9b532e,True
+1803.09123,Equation Embeddings,eligible,2,2,20029,4decd4ac6e254c193332db48f06d05f435996893ce33d2752d0cbd06c17dff88,True
+1804.00720,Simple and Effective Semi-Supervised Question Answering,excluded_no_eligible_question,1,0,18188,9a9930969815c7d94ee352170dd2ea8071b980723b1a1066927f1adaf5903d4b,False
+1804.05918,Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph,eligible,2,2,29102,36cdb448ba0ae76db580bc23f15fb01a492b28d97e685c6c810ef89a05f07d7e,False
+1804.07789,Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization,eligible,4,3,29337,4fce313da6a42163df48de2ca4c3f909a7589c7e1bba0f3543e2b74a6c37681d,True
+1804.11346,A Portuguese Native Language Identification Dataset,eligible,4,2,12812,b1f46d002b57f47c548ce29bbea2e994bda6e0454a5877b82ddfccb4b44b1ea4,False
+1805.01445,The Fine Line between Linguistic Generalization and Failure in Seq2Seq-Attention Models,eligible,2,2,12908,91eb338f1008f60a7ff26a4cd09c17d17c40645a9e22d0b12197ad66fa56535f,False
+1805.03710,Incorporating Subword Information into Matrix Factorization Word Embeddings,pilot_used,4,3,13844,7eaaba8e4d408ae37464c51dd573869f81bf89bd23873beec2ee049580a24821,False
+1805.04508,Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems,pilot_used,2,2,30731,17cfba3f5db2624d2810ce2981d6a7da1a42beecede8b02fbaa151ba328dc735,False
+1805.06966,Neural User Simulation for Corpus-based Policy Optimisation for Spoken Dialogue Systems,eligible,2,2,30778,fbc0050c3a91ce4e10b08709c03f06eb1a26d7ed179bcf2368775bf5b264829b,False
+1805.07133,Combining Advanced Methods in Japanese-Vietnamese Neural Machine Translation,pilot_used,4,4,27825,795a73606024cac8b63525c062d43628b80cee6a07c56a028b98d82a93d7f888,False
+1805.08241,Sparse and Constrained Attention for Neural Machine Translation,eligible,1,1,11145,424acb5919a6a35f112b26ba3b29d23a2698d2300ed00152b1f271b9ee12d42c,True
+1805.10824,UG18 at SemEval-2018 Task 1: Generating Additional Training Data for Predicting Emotion Intensity in Spanish,eligible,6,5,15688,b44dc222dc82eb03c14d1be05f00e71a34fbf6bfdc538355bf9d2aca1cb71dfa,False
+1806.00738,"Contextualize, Show and Tell: A Neural Visual Storyteller",eligible,4,4,9096,31a96c6aee1c33d5d67c69c2f7b131fe70ecf21f32a6854a278366cb6c71517a,False
+1806.03125,Text Classification based on Word Subspace with Term-Frequency,pilot_used,2,2,33973,c616bd1473d5fe5c74d369d2f30111ab3b7ec898312bba8b0464b85eea6e8679,False
+1806.04330,"Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering",excluded_no_eligible_question,1,0,24690,de575a276c6c360c0645b43679d7e9e9066bf92acb3d73ca5197ae12f87cb50d,False
+1806.04511,Multilingual Sentiment Analysis: An RNN-Based Framework for Limited Data,pilot_used,6,5,19232,50a14cf955ad622f9938c8de17b9779acc696b2d546692854889c16d77c0f06e,False
+1806.05504,Entity Commonsense Representation for Neural Abstractive Summarization,eligible,1,1,24271,5719e78922e9dfdf8abc131b022acc06bfe63a5c29fa5916db711ffcba93e7a9,True
+1806.05513,Humor Detection in English-Hindi Code-Mixed Social Media Content : Corpus and Baseline System,eligible,4,4,18552,ea4621aa088d78cdb23878c90728e6bfef12d4274be6d145cb6f066a4455a391,False
+1806.11432,Using General Adversarial Networks for Marketing: A Case Study of Airbnb,pilot_used,4,2,18033,6058a1cb0d854cf83a7c140916e0c10f2982a183276fb228c3df329ca490b02d,False
+1807.07279,Imparting Interpretability to Word Embeddings while Preserving Semantic Structure,eligible,4,4,42630,9362dac97a0ca80d29d1fb92575e6ec817f58238c848d64c3ba45bc12cf160d8,True
+1808.03738,Ancient-Modern Chinese Translation with a Large Training Dataset,pilot_used,2,1,25468,9f25fd79080487ddab3e662f6cd552e621b14b258a3a8659e2d501e9d08e10e2,False
+1808.09029,Pyramidal Recurrent Unit for Language Modeling,eligible,2,1,23042,9d23becf1b6089ab42dc3a6ce8f5235ad33d05fe4fa3853471cb0d209cbe8135,False
+1808.09111,Unsupervised Learning of Syntactic Structure with Invertible Neural Projections,eligible,3,3,30228,9d1d5fe8c0f0725289d69cb681f744ded4c84b40290b14abac1f87459d77cb43,False
+1808.10245,Comparative Studies of Detecting Abusive Language on Twitter,eligible,4,4,14840,9f9cd56a47201eee5da412274ac4dc20b12932e8d6c4b18f482f8838e07d72b7,False
+1809.00530,Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification,eligible,4,3,34374,fc83b0e88f8265ff230a0d4fb443c0d31c8243e0436b41478f37fb53395263b2,True
+1809.00540,Multilingual Clustering of Streaming News,eligible,3,1,21800,e7c90c924778cad261b54d8bec98d37ad175fa94078d410125d7c02da6d256cf,True
+1809.01202,Causal Explanation Analysis on Social Media,eligible,2,2,27666,51f78824c40c86d3045c568b055318f4caa0df143fb639834fc7b3b243c8fd81,False
+1809.01541,Copenhagen at CoNLL--SIGMORPHON 2018: Multilingual Inflection in Context with Explicit Morphosyntactic Decoding,pilot_used,7,5,15308,bfb571b68744d49447a0c6cce70a4dc4e3a66ac8d3b1d3778a4a94dfd32fe636,False
+1809.02279,Cell-aware Stacked LSTMs for Modeling Sentences,eligible,4,3,22128,a8b9bc14ad668b6a1ac7b6bb3b3bb5fcfd07250315a1008484b1c7793ba8537a,True
+1809.02286,Dynamic Compositionality in Recursive Neural Networks with Structure-aware Tag Representations,pilot_drawn_skipped,1,0,33406,ca0f4823451e662d4bbd2ca8e4c215be49ff49e066ff766ff3a347de64989962,False
+1809.03449,Explicit Utilization of General Knowledge in Machine Reading Comprehension,eligible,4,4,28184,a4a90ea8e31f5b328495e9a0207567530e2339805dc57d10c41e18478a5c96d6,True
+1809.04267,Knowledge Based Machine Reading Comprehension,pilot_used,1,1,26087,5cf4d0a1bf2e772fd2094104bbadadee71e4b38a2e3ccdcc06f7b78fbd492b36,False
+1809.06537,Automatic Judgment Prediction via Legal Reading Comprehension,eligible,6,5,28751,1486d8573c8fb205e9b91b8897abe882755e751ebe88512ebef3cdc0072766d8,False
+1809.09194,Stochastic Answer Networks for SQuAD 2.0,eligible,3,2,11496,bbf07dde405b862939916e2287c6b7ea956c12d95782d0d07ede01f865a7f2db,True
+1810.04428,Improving Neural Text Simplification Model with Simplified Corpora,eligible,5,5,16280,31b69c3b74e715b6195f25991f0508cb1055c4f62264b17b0f7bb03a35b38d78,False
+1810.04635,Multimodal Speech Emotion Recognition Using Audio and Text,eligible,3,3,22251,ba3a3e3e57e14274f739a34750fa988feb482875c9a31c4fe1557d98371fa55a,False
+1810.05241,Generating Diverse Numbers of Diverse Keyphrases,eligible,6,4,31405,3e764801c8d35258ea7585cbbad6d327071f43fbab018e1a89e19ab44e34b590,True
+1810.08699,pioNER: Datasets and Baselines for Armenian Named Entity Recognition,eligible,3,3,18988,566f5339d7ea587f9ae41ec99c062d6bad038d9b003eb67ee58d1c65830d7b5b,True
+1810.12085,Extractive Summarization of EHR Discharge Notes,pilot_used,3,2,20338,ec325be309aa04022aa921955a4b7a9890b2740bb5ee88b2f5d586936e33c9ca,False
+1810.12091,Embedding Geographic Locations for Modelling the Natural Environment using Flickr Tags and Structured Data,eligible,2,2,31083,3dc2090ae48f00da0312029a6949d8f8b744b16143b0b0140d7e5aece729a994,False
+1810.12196,ReviewQA: a relational aspect-based opinion reading dataset,eligible,5,5,25373,0c77508bcd5c3dab633c6b746a42f03b7af22b1a756638997e7193043fa147f2,False
+1811.00147,DOLORES: Deep Contextualized Knowledge Graph Embeddings,eligible,2,2,29160,a9d0da86f8ca487d98080138b81ec6ff401e6642ee3ff4f780a673c4403ae13c,False
+1811.00383,Addressing word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages,pilot_used,3,3,15887,5ba62b62aa965489dad5ea11bcf346ffc9413ae0e75af4efeed2dffc77b3dc09,False
+1811.05711,From Free Text to Clusters of Content in Health Records: An Unsupervised Graph Partitioning Approach,eligible,1,1,55845,ac0983df0d6f0fedecb34799cb63b5901f4e65dd7aeae470489007d951a56db6,True
+1811.08603,Neural Collective Entity Linking,eligible,4,4,28537,d589809e8ec5fc436d3d11f74a5792cd20025e4257d7f2a11dc81f98ce17b221,True
+1811.12254,The Effect of Heterogeneous Data for Alzheimer's Disease Detection from Speech,excluded_no_eligible_question,1,0,18098,0368c5741539ac7db5d1ca6ab07096f7aedea13fc47b0438fe6afed4222eadc6,False
+1812.06864,Fully Convolutional Speech Recognition,eligible,1,1,13537,ab779a6e78d77a0ccaa1ab85349207d54480906274c4443b955a2da6a1478759,False
+1812.10479,Multimodal deep learning for short-term stock volatility prediction,excluded_no_eligible_question,1,0,68924,034023c4331a1c79b1046edc6a87cb9ebe1f45513f0ad1652ccc36ed1cdd4822,False
+1901.01010,A Joint Model for Multimodal Document Quality Assessment,eligible,9,5,27654,43dad2211a27ae7110105cb373ab1287671506979d222ce29162296669f37ef7,False
+1901.05287,Assessing BERT's Syntactic Abilities,eligible,1,1,9980,a2523de5941a4774a224b9667815deecaa21b35dae21da4ec3b6b9c420f602c6,False
+1901.08079,A Question-Entailment Approach to Question Answering,pilot_used,2,1,49518,02401031c7be81a50de402846c84a6b0edc388d6c0f687c3c8bd53561cc60ffd,False
+1901.10133,Structuring an unordered text document,eligible,5,2,8080,d7dfacb34ca9a7da161a4010a2732d3aeeea760f2457324c437e04340e3f413a,True
+1902.09243,Pretraining-Based Natural Language Generation for Text Summarization,eligible,4,3,26102,28a720afd5ceeb317f29f49bc8430c4c0147a1a1cd510b1d155e3c773f8967df,True
+1902.09666,Predicting the Type and Target of Offensive Posts in Social Media,eligible,10,5,15792,0dbae3a126aa300b47d6f3762c26600bf292cc394ca738ad269f5653134b7267,False
+1903.03530,Fast Prototyping a Dialogue Comprehension System for Nurse-Patient Conversations on Symptom Monitoring,eligible,4,4,24541,3daacc9ea08161e894583cc733de138e931b272f4ee348eb3e46ec10475483a7,False
+1903.07406,Automatic Classification of Pathology Reports using TF-IDF Features,excluded_no_eligible_question,3,0,16053,005c18e2f194414c4cd4934d4d24fb72a1f204a2d4dc191f88f7e53090e01f0a,False
+1903.09722,Pre-trained Language Model Representations for Language Generation,eligible,4,3,13344,7bbd0b0742a269915ed3607b1f16571da6cdacc11f91be54b977e4cfa9d9fdcc,True
+1903.11283,Grammatical Error Correction and Style Transfer via Zero-shot Monolingual Translation,eligible,4,2,29501,25ce47385713dbc9a58c64d8ccc002a7fd7266fbd43bdf0ab6881dbf4c2866e0,False
+1903.11437,Using Monolingual Data in Neural Machine Translation: a Systematic Study,eligible,6,5,27325,8583f791c32828b156ad04546016d016793c2bf7c9134ec7ce397fc6cd97051a,True
+1904.01548,Understanding language-elicited EEG data by predicting it from a fine-tuned language model,eligible,2,1,13637,ce4d624243c6ca17db4d98e1d11721056bd8708f44a5aedb9c9e36b3f3bd0923,False
+1904.03288,Jasper: An End-to-End Convolutional Neural Acoustic Model,excluded_no_eligible_question,2,0,13114,476d2bcc3b831e6ab23c1b6bae9952b7ab307710c61f5eb9e9fbccec4863553a,False
+1904.04358,Deep Learning the EEG Manifold for Phonological Categorization from Active Thoughts,eligible,6,5,17410,26aa936cf51e42c1adbc3a4b2a71238e5a7b8242913842077ee4145580ca6cfb,False
+1904.07904,Mitigating the Impact of Speech Recognition Errors on Spoken Question Answering by Adversarial Domain Adaptation,eligible,4,4,15466,8078973865230b1304694d33d8dd4260f66fd50a4d74114c47c4d76b7b080b4a,True
+1904.09535,NeuronBlocks: Building Your NLP DNN Models Like Playing Lego,eligible,3,3,12501,574f0530c80214ce557d79798250994c9ed6c03238cf986790f4240c588e23d8,False
+1904.10503,Fine-Grained Named Entity Recognition using ELMo and Wikidata,eligible,3,2,15636,e13041d24836bc7b41ba9f38e87e502d1bcb290249ab5674dd344f0664e6d84c,False
+1905.07791,Predicting Annotation Difficulty to Improve Task Routing and Model Performance for Biomedical Information Extraction,pilot_used,5,4,30257,2984d21fc75fb50ef29bb669d31b368627a047fda40e466f2e6a8da9dfc71717,False
+1905.10851,When to reply? Context Sensitive Models to Predict Instructor Interventions in MOOC Forums,eligible,4,3,24818,08c5e884906c4ff2fc0f4597a2e889537d49dd867cdd1574c12080287b9a434c,True
+1905.11268,Combating Adversarial Misspellings with Robust Word Recognition,eligible,7,5,28003,af54796412d07a0aaf635fe6c6d20d9728bd83edf03a9aed30042c92f002cc41,True
+1905.12801,Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function,eligible,5,5,16782,740d276a7913db15effd107a5799f6a67bdb98221fc09c74a85e95c8f95d89af,False
+1906.00346,Pre-training of Graph Augmented Transformers for Medication Recommendation,eligible,2,1,25351,f0f13e8fb27d1454a9f4f4d2a69e383769b460ffbdf527e42a20b3ee1e1fda3e,False
+1906.00790,Multi-task Pairwise Neural Ranking for Hashtag Segmentation,eligible,4,3,26210,f23d9c8ec0c2a81f5bb7afdd9d377a6c6dc5b0f605c9772764b6e76c5e79ce6d,True
+1906.01040,A Surprising Density of Illusionable Natural Speech,eligible,2,1,22158,8fbc37ef2541b6b97d65996a6fd35860032a3b655d35ab353bc15cb390101fe0,True
+1906.01081,Handling Divergent Reference Texts when Evaluating Table-to-Text Generation,excluded_no_eligible_question,3,0,25470,1bee3c57c566069cb9a3fb35d7f6e7a7404b15ecbb366f64b114cb5e2dde8831,False
+1906.06849,A Multi-Task Architecture on Relevance-based Neural Query Translation,eligible,2,2,14852,f6f6237320935de9fb1e02007903e5695eab60d1030453d4d3363d7fc8ebf962,False
+1906.07662,State-of-the-Art Vietnamese Word Segmentation,eligible,4,4,22985,4a122e8df69a2fe315ef8d67b6f1ff2d601064d1e96b8f7ac4a246192007525f,True
+1906.07701,Distilling Translations with Visual Awareness,eligible,2,2,12555,b77e6e8f5fc0fb922412ecacc72507ca5614cd31777d168eadc596fed0ce1498,False
+1906.08593,Conflict as an Inverse of Attention in Sequence Relationship,eligible,3,3,17176,86ce5ae7aa0fe1c065f79d6af47a857b9ae2ae2cd9de31b7788531a7628a2ed1,False
+1906.10225,Compound Probabilistic Context-Free Grammars for Grammar Induction,eligible,4,3,18211,f49b6133bed81c5841b2462bc5f00cb4e41a47f1be91439b747b1ab58fbd84b3,False
+1907.01468,How we do things with words: Analyzing text as social and cultural data,eligible,5,2,56699,5f297173062612a96d89e20b51b2a9453e25765d11df1f478bd056f8f77e912b,False
+1907.03060,Exploiting Out-of-Domain Parallel Data through Multilingual Transfer Learning for Low-Resource Neural Machine Translation,eligible,1,1,31233,5fdb4a13f69c68758a042a38471adddc62d01128fc016bf8462a993dbda10c74,True
+1907.03187,Applying a Pre-trained Language Model to Spanish Twitter Humor Prediction,eligible,2,1,11560,51ef87d192358f136102b215d2c358877ab419b093a2359cce568e9a3e8f0b59,True
+1907.04433,GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing,eligible,1,1,8563,e1a42142da36fd6409453899ac99c5122073b1834f1fd0f788b2789fe69bd9d8,False
+1907.06292,TWEETQA: A Social Media Focused Question Answering Dataset,eligible,3,3,24795,7b55fa25bea71d946b5900ef969ae84f25675122a6da15f3ed6ab9e1e60990d6,False
+1907.09369,Emotion Detection in Text: Focusing on Latent Representation,eligible,5,3,16232,f7264dfeee8c22860e35454cdf64b544d2097d2f59fb8322acef963a25852e86,False
+1908.01294,Semi-supervised Thai Sentence Segmentation Using Local and Distant Word Representations,eligible,2,1,45679,cd8f2040d84a748792d902bc3bf4fc535ec11feab4668f06c777ac6a7fafe058,False
+1908.04042,Evaluating Tag Recommendations for E-Book Annotation Using a Semantic Similarity Metric,eligible,6,5,22831,a2755ce68ec6d8b9d6a75bb95264c54098028889ba4a1672b3d9e00023ed9733,False
+1908.05441,Multi-class Hierarchical Question Classification for Multiple Choice Science Exams,eligible,4,3,40344,c6803eb86f7f7af5643d5d8491dccda20904e2474b81cb4151a80be53b2393f2,False
+1908.05828,Named Entity Recognition for Nepali Language,eligible,12,5,19881,e5931636bd2fbeb20c90b4412b1fa9ab84e28a7d7445e3ce998049775a4952e3,False
+1908.06264,EmotionX-IDEA: Emotion BERT -- an Affectional Model for Conversation,eligible,5,4,22164,0cbe3a0ff33728f31d085ec1734b31ae48edd06c6a3b530614c2b1222257586b,False
+1908.06267,Message Passing Attention Networks for Document Understanding,eligible,5,3,28671,77edc1fd264b5e9eb11087b22a618245f83e6351da97e421d64546cf0a7dc69a,True
+1908.06941,Why So Down? The Role of Negative (and Positive) Pointwise Mutual Information in Distributional Semantics,eligible,4,4,15176,dcea282d10bbebc109ac352a1b0b8bdc09e6430a2678d3dd7dea82d93818bb90,True
+1908.07195,ARAML: A Stable Adversarial Training Framework for Text Generation,eligible,3,1,26159,aff06d1cbadff3d013716278e43a4c9fa79580cdeffe8fd10a1597231ba7dda5,False
+1908.07245,GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge,eligible,5,4,14375,d60ae1984a1ec02bf26e63572369874017bf57c3d3229940f2e84b9e02a278a9,False
+1908.08345,Text Summarization with Pretrained Encoders,pilot_used,3,2,31761,ca5fbcf7764d3ef0d8f6074e856276553087e597bd25a3287a3311cfb4943241,False
+1908.08717,Gender Representation in French Broadcast Corpora and Its Impact on ASR Performance,eligible,6,5,26379,160c56d39782ed0e58fa73f616c83417ece38233d1c80285a61a03e4eca56989,False
+1908.09246,Open Event Extraction from Online Text using a Generative Adversarial Network,pilot_used,5,4,28028,b096739de937450f9e4e61bb640ef3acc3fe39ea4e5a55e632c3fb6da8b09dd0,False
+1908.10084,Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks,eligible,6,3,27300,3bc7db66a961f95a5683a4be6b01ae886307ee6bd427aa9c6a401c1058ab398e,True
+1908.11047,Shallow Syntax in Deep Water,eligible,5,5,17185,1ae4186acce5c1929d109e41c8e8ff12ecc722db1f0d6b698ed597b4a57eaafa,False
+1909.00015,Adaptively Sparse Transformers,eligible,3,2,34772,f99280e239577789fa87dd300edb1dcdc09970d526412612e72fd7dda1586bbb,False
+1909.00105,Generating Personalized Recipes from Historical User Preferences,eligible,6,5,18983,4109dab657a42701d91e27df62271a352cae06f4b10dd3b237847ef639c48611,False
+1909.00175,Joint Detection and Location of English Puns,eligible,4,2,19200,8c61dfe95929f5a8055deb704aeafdd210db27cc71d478b687ccf4312991d0e6,True
+1909.00326,Towards Understanding Neural Machine Translation with Word Importance,eligible,4,3,30898,ed0b1a20057bde89d9e52ae9e79ce749557f6a50c2c11d2c47a67513e4700138,True
+1909.00512,"How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings",eligible,2,2,30024,82155c8ad912ba99b4957db06e757eb4b2a2afce1a8037ebfafbe2a7e6c38a23,True
+1909.01296,PolyResponse: A Rank-based Approach to Task-Oriented Dialogue with Application in Restaurant Search and Booking,eligible,4,2,19034,ca704d2fd90087178d8e2fa122a3636d77bc9fede32db0eb92032a1180ae23bc,False
+1909.01362,Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop,eligible,2,2,33521,61516f51927ade58bd6fa1ed8bd208b95330124deced37ab8d0d940d36b85778,False
+1909.01383,Context-Aware Monolingual Repair for Neural Machine Translation,eligible,4,2,26157,b61c0e5de7063a990fa664d6aaacf501a94196e64ed4251b4d0c7887ba7ee331,True
+1909.02027,An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction,eligible,4,3,15870,05a5cac1ec71ab9199ae152d29031dd2b5eb3aea707b71ccb6ccde2514527cc3,False
+1909.02304,"Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)",pilot_used,2,2,32628,5916dc4af296770e1542323f33826dd04a31937710b3ec9347fca0ab66eae896,False
+1909.03135,To lemmatize or not to lemmatize: how word normalisation affects ELMo performance in word sense disambiguation,pilot_used,4,3,19948,3e7778d10ddd02853a3101dc6757b44b82ad30d913487bde213892fd8d05017a,False
+1909.03405,Symmetric Regularization based BERT for Pair-wise Semantic Reasoning,eligible,3,2,26603,dc125fe8ed8cc3e2643a5580055ac900607bfd0f1b64046b9e5f62564cfb2d1f,False
+1909.03582,Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning,eligible,5,5,29077,27f071c2f2ab637bcbb5e1c57b90c60ec96f12e2e6b17a089147eb1d35444a1b,False
+1909.04002,The Trumpiest Trump? Identifying a Subject's Most Characteristic Tweets,pilot_drawn_skipped,1,0,25920,232b3ffa845f8193e68b3ebd831392d35c9c846dc95fb90c867cf0d001d8a5c3,False
+1909.05359,From Textual Information Sources to Linked Data in the Agatha Project,eligible,2,2,15547,2e85dd4aec057fa0dab52663a12d8e31c30af0404fd3d070b922a1cd9c302b7e,True
+1909.06162,Neural Architectures for Fine-Grained Propaganda Detection in News,eligible,6,2,11428,55d6e593e84aa2547067a4d18de456efbb51668b1264305856dfbee15aaa9cd6,True
+1909.06200,A Neural Approach to Irony Generation,eligible,5,5,30814,9c6e347300d84645113d7a52e7d18c284d3c88473ffda30a662ce67251cfc487,True
+1909.07575,Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation,eligible,2,2,31765,612ed960c70a0e1ec96f44b8a99193dc0eb0e7db438b66e2bfdb82f3e31918d5,False
+1909.08089,Extractive Summarization of Long Documents by Combining Global and Local Context,eligible,2,1,29433,b662ca14ea53c0caa6e389fcfb8af48a5482ac9b1af7d3ccdc5a2b3f8ef0913a,False
+1909.08970,RUN through the Streets: A New Dataset and Baseline Models for Realistic Urban Navigation,eligible,2,2,15133,2a935632009aec187ada4135942be7e9aab10d8d0cbd0fded670b30593d6fcab,False
+1909.09067,A Corpus for Automatic Readability Assessment and Text Simplification of German,eligible,2,2,18454,e697951a2332ef126f685a5b926f527d2173aa1f79a8c00880d69f342bb328ba,True
+1909.09534,"Creative GANs for generating poems, lyrics, and metaphors",eligible,3,3,8489,b04a0000e7fcac123537e9373b951ed1b59759d19bedf2ed444fbd040154b7ca,True
+1909.09551,Natural Language Processing via LDA Topic Model in Recommendation Systems,eligible,1,1,29960,9bbf3fe57aeb61325a11c966fd8e60ad77ddaabfeecbcf18206fc99fd5e9c317,False
+1909.09587,Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model,pilot_used,4,3,17363,edb2f47aeee9aa3c7b6337dc9ffff7ebd1b4eb082cc74976c5840d9ef756520e,False
+1909.10012,Is change the only constant? Profile change perspective on #LokSabhaElections2019,eligible,3,3,32622,b7a211ca9558d40e4c4f8c6b50c45166c9dd3b87ae1db43cb43fac6efafd4962,True
+1909.11687,Extreme Language Model Compression with Optimal Subwords and Shared Projections,pilot_used,2,2,25540,7b65a569043ec36fce19600f2721b914271a36870e1692bb7ab3010552a19242,False
+1909.13104,Attention-based method for categorizing different types of online harassment language,eligible,8,5,19334,e525ec3db8fe5434fbb569f2b965d538156d35cecb1b5c55ff43d49e532bc2db,False
+1909.13714,Towards Multimodal Understanding of Passenger-Vehicle Interactions in Autonomous Vehicles: Intent/Slot Recognition Utilizing Audio-Visual Data,eligible,2,2,8838,ca93d79f674b22d7ea481a5dce98a78a8c20b3156de73b99169876ca6438acfe,True
+1910.01863,Template-free Data-to-Text Generation of Finnish Sports News,eligible,1,1,30433,9a8b4d6cde0a8dcad4417deba5c72293ebb7069a26bc51a3846b44fd1214b5fa,False
+1910.03634,Prose for a Painting,eligible,6,4,11371,ecc80be27598777f8c29ad06445398cfd71940fa7c1c4acc1fca9195e9e65222,False
+1910.05603,VAIS ASR: Building a conversational speech recognition system using language model combination,eligible,4,3,6879,8a538e847abc00fa78cb5e2d0442ba324683b06406f25c5c72664dd0719c25ed,False
+1910.06036,Improving Question Generation With to the Point Context,eligible,4,3,27705,6f35dd5db84f110b75fecdcd2137b69001b89d58182ccd6ce3e4a9c53208891d,True
+1910.06592,FacTweet: Profiling Fake News Twitter Accounts,eligible,11,5,13796,647a98268b0c4723d8f782589a450f6f058c26a9d3579c2432652534dc4c14cc,True
+1910.07601,Contextual Joint Factor Acoustic Embeddings,eligible,4,3,26772,3e5cb5c525ebd06cf4c809dd051475a5b5a08f4b7f4359413dc017496423dc72,False
+1910.08293,Follow Alice into the Rabbit Hole: Giving Dialogue Agents Understanding of Human Level Attributes.,eligible,4,4,34951,3d428040993eb68a7b30f0a5d38d59ed8f1655dcb3c41532b6fb6ec5cffc7bed,True
+1910.09982,Findings of the NLP4IF-2019 Shared Task on Fine-Grained Propaganda Detection,eligible,3,2,20685,b3da3b457ffb229772c7a0b7295deabef14a6a2a4f696f53d03172aec6f869d3,True
+1910.10781,Hierarchical Transformers for Long Document Classification,eligible,2,2,18428,7090f503935793f3601df236cbe9bee61ba2a3aefaf62d0cd6609f9794992e7b,False
+1910.12574,A BERT-Based Transfer Learning Approach for Hate Speech Detection in Online Social Media,eligible,8,5,28746,d5c12a9dd4f96f6bd0f8091c7141e317e24f63a5d431461b02563dc87bac84fa,True
+1910.12795,Learning Data Manipulation for Augmentation and Weighting,pilot_used,2,1,33865,39440d2ed53bb96ca5804518115d847e38305425896500309bf06335959ca775,False
+1910.14076,A Neural Topic-Attention Model for Medical Term Abbreviation Disambiguation,eligible,4,4,19729,b4d75ebb26c569813aab3d82f2d2465a1e26586b159d398353306685978ba5e6,True
+1910.14537,Attention Is All You Need for Chinese Word Segmentation,eligible,4,2,24860,108990fe81c8f0a81e390b25f42bd1a43518636c0ef3b14034e009a7e2ff3813,False
+1910.14599,Adversarial NLI: A New Benchmark for Natural Language Understanding,eligible,4,3,32335,fcbb17e201d0fbc06535605b76b6e9927cfe9d4f530390b38e705d9cf1f83b99,False
+1911.00841,Question Answering for Privacy Policies: Combining Computational and Legal Perspectives,eligible,5,5,26930,390e616de97cda92f0bd4f95251d91378e8f3cd0506f95d2af9ce25befb36115,False
+1911.01371,Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups more Therapeutic than Twitter?,eligible,2,2,26164,7459d2b9409da147262189e97448aba75c06a48ce4691fde9ec6a8e11d440dde,True
+1911.02855,Dice Loss for Data-imbalanced NLP Tasks,eligible,4,4,25309,1a4a6d380c39c15bafd053963519d75bbe963370af0da4d9a02cea9c85fa62f8,True
+1911.03059,A Comprehensive Comparison of Machine Learning Based Methods Used in Bengali Question Classification,pilot_used,2,2,14503,7e7527151efb378c4b16a9888712c2e265c725cc860581d62114223588570227,False
+1911.03343,Negated LAMA: Birds cannot fly,eligible,1,1,9254,f73b8d2bce3951530d44ff480b33b8e40b362cb2b159c75d39f2b30daa4dbab2,True
+1911.06118,Learning Multi-Sense Word Distributions using Approximate Kullback-Leibler Divergence,eligible,2,2,15986,2fe71a197fec2c9203c82edda18fd29e884f0cd3e89882c0f7d7905f63154fe8,True
+1911.06964,Learning Autocomplete Systems as a Communication Game,eligible,4,4,13265,656ebc589697d89334af9a64cf39c3e1d726710ec65a4266ce2129e76d0caf23,False
+1911.07555,Short Text Language Identification for Under Resourced Languages,eligible,9,5,12667,fa6885f9bc24f6fc9912dba3a44b4cf5adc6b5a4d15d7ed320dc884e8ca50ad6,True
+1911.10049,High Quality ELMo Embeddings for Seven Less-Resourced Languages,eligible,2,1,21761,303cbb77866c5df202cc363b1483c5705fcddcb3e2edea6050fe2eabde870925,False
+1912.00667,A Human-AI Loop Approach for Joint Keyword Discovery and Expectation Estimation in Micropost Event Detection,eligible,6,5,32284,7eb4fc71434c2e1e96d9c495dc1ad20b2de22813646f91eaa63d1652a9d750d4,False
+1912.00903,ZuCo 2.0: A Dataset of Physiological Recordings During Natural Reading and Annotation,eligible,3,2,23823,749146ba688f6dbbfac552ce861e6bff85da3b6b2a92cb7856fb4a7822af6fcc,True
+1912.01214,Cross-lingual Pre-training Based Transfer for Zero-shot Neural Machine Translation,eligible,4,4,28012,08512164d95671583f090d935ac3ede6ec317ed3c183d0445e99c9d60c17d440,True
+1912.01772,A Resource for Computational Experiments on Mapudungun,eligible,2,1,21081,9fe2bc5663461b00b7a07d45c2c428990f916ef2ec01bd5fe2b7af2b4f2b7735,False
+1912.01852,PitchNet: Unsupervised Singing Voice Conversion with Pitch Adversarial Network,eligible,2,1,15357,b68bd867bfd026775a370fe56836a3bf584a537184e38c035c930812233a9373,False
+1912.03627,A Multi Purpose and Large Scale Speech Corpus in Persian and English for Speaker and Speech Recognition: The Deepmine Database,eligible,6,2,25721,e08463ec5c1404145b94957e96e3af599b8b325ae7273dab172f5405efc574c6,False
+1912.03804,Women in ISIS Propaganda: A Natural Language Processing Analysis of Topics and Emotions in a Comparison with Mainstream Religious Group,eligible,5,5,25174,09655d7a6918fe6c37b54e9c6f3ee5b3fde73975d58b202622a901eb4312975e,False
+1912.04961,Medication Regimen Extraction From Clinical Conversations,pilot_used,3,3,31245,d34950dea5307bd0e3527ec627b24ff61bf253061599efc510cb13d79e0e1135,False
+1912.06262,Extracting clinical concepts from user queries,eligible,2,2,22439,f4e0323014f55e2bf80b849f91c9a959c045e1070da3f61825fe2e57c3f0b502,False
+1912.08904,Macaw: An Extensible Conversational Information Seeking Platform,eligible,6,5,12668,14b92d3025079e92825c2978fd742b676e33ab16a856a26fe77d3befa27577cd,False
+1912.08960,"Going Beneath the Surface: Evaluating Image Captioning for Grammaticality, Truthfulness and Diversity",pilot_used,4,3,24532,d94121151363f1932e47cfd68b3e37ca831765a6ba6fbcdd67d56dd17d8a3eaa,False
+1912.10011,A Hierarchical Model for Data-to-Text Generation,eligible,3,2,32069,5010777f57d708a81c6b041939b77a7c4fdb65341e9a7d96d75c0d8515e88fac,True
+1912.13337,What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge,eligible,5,5,43755,503786318d7984e3ab1b1a2e42f8a9a8d956fbba9c0692481a632c54314d28e7,False
+2001.01269,Generating Word and Document Embeddings for Sentiment Analysis,eligible,6,5,25833,d13e86ce47c7b006950a6ecbdaaf1db6371e7e13fd25b1f90bff2337398668f5,True
+2001.02284,Multipurpose Intelligent Process Automation via Conversational Assistant,eligible,3,3,43205,ee5aa3fb3cec1a423543d4335ab421ece414a1947bef9fe2a9414898c670b958,False
+2001.02885,Resolving the Scope of Speculation and Negation using Transformer-Based Architectures,eligible,6,2,15449,412bfa426bb6fdc07ccdd1fce5eaa64e435da865d77e6938e5f48c8f4c6ea34e,False
+2001.03131,Offensive Language Detection: A Comparative Analysis,eligible,3,1,16567,cc15c2819c4c831581e76592cfe3e4dcb2e4f7b6eb477e1e6499e8b29ce08396,False
+2001.05865,Ensemble based discriminative models for Visual Dialog Challenge 2018,excluded_no_eligible_question,2,0,4464,0c5166c35432eb992923fc4a4af9a7b4b04e9b82de29837d1f2b2f611757028a,False
+2001.07786,Shared Task: Lexical Semantic Change Detection in German,eligible,3,2,12174,69c390b02cab235e5a42c9c65ad9f9ac1a36571075dc0236c06c727a95346710,True
+2001.07820,Elephant in the Room: An Evaluation Framework for Assessing Adversarial Examples in NLP,pilot_used,3,3,28947,7dc9fda943ee6645e5059f0337aed782415e1ed19676fe588c7cc8895606ee88,False
+2001.08868,Exploration Based Language Learning for Text-Based Games,eligible,4,3,32832,99792c8b51e5fd42fd4910bf0f38e4ff933b151ca19ccb076be0172b218bb90d,True
+2001.09215,An Iterative Approach for Identifying Complaint Based Tweets in Social Media Platforms,eligible,2,2,7326,4812fcb6ad516254762b9f2c43b2bdad7bd3ec7826ed658543c6c23ec80e5dae,False
+2002.01207,Arabic Diacritic Recovery Using a Feature-Rich biLSTM Model,eligible,4,3,31336,3312d5c7d7287c58df51372153905d05f8a19cb153a8057d22bea308b7377288,False
+2002.01320,CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus,eligible,8,5,16951,d615980403e391e0c3df8fdf072e39fb98cc1aaa1dc6401218794687797bbd4b,False
+2002.01664,Identification of Indian Languages using Ghost-VLAD pooling,pilot_used,3,2,16497,553032f01b98d56f299a065aee6db224e8acab6e263fc5002da29774d8e406ef,False
+2002.01984,"UNCC Biomedical Semantic Question Answering Systems. BioASQ: Task-7B, Phase-B",eligible,4,4,44250,ad440e3462185e7128bf0954a95eeba53c610d0e40ab320e6b0c553ed52dc4e8,False
+2002.02070,Understanding Car-Speak: Replacing Humans in Dealerships,eligible,7,5,10471,eb2e7fab78b053218513f94b7c9988ca5a99301cfac332572eaf7c0c02044da8,True
+2002.03407,Abstractive Summarization for Low Resource Data using Domain Transfer and Data Synthesis,pilot_used,5,4,24753,da176d3f716d3395d6f376e80c7857f7fafc2361b2d1e8f1237dc35d198adb17,False
+2002.04095,Automatic Discourse Segmentation: an evaluation in French,eligible,1,1,21412,e37abdd8da2e96b357a22c0f3dd01a2b1f256b29d3acf3cf9a0b878d4c3f155a,False
+2002.04181,Performance Comparison of Crowdworkers and NLP Tools onNamed-Entity Recognition and Sentiment Analysis of Political Tweets,eligible,5,4,10595,7b50c14f15bb358eaf72e1f7c0b1274a5ef7439f81db31235883cb404dc63bae,True
+2002.07306,From English To Foreign Languages: Transferring Pre-trained Language Models,eligible,6,5,24328,91fb936a640eb18b8c15da398b36cc1e01f21e38e7a3955a27e73b0ecccafb63,True
+2002.08795,How To Avoid Being Eaten By a Grue: Exploration Strategies for Text-Adventure Agents,eligible,3,3,16468,8511418ff3637f74d302b2a8405d4cbc450ce0ab63cf9554f3ade8b013aa3ec4,False
+2002.11910,Integrating Boundary Assembling into a DNN Framework for Named Entity Recognition in Chinese Social Media Text,pilot_used,3,2,12533,3248b88b0e61940e86ce886cf60d581e2f891e8ccdb62295030b52a14b6ad5a2,False
+2002.12612,A multi-layer approach to disinformation detection on Twitter,eligible,4,3,33422,07f90d64fa025c6d21a915fb0ffbc29c1057f483edef6a176f03b9011369baa7,True
+2003.02249,jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models,eligible,2,1,16591,acb209360f7a567ae7e5b8bdac4f192c7d68cf9655b7c0653acd248b575e55d4,True
+2003.03014,A Framework for the Computational Linguistic Analysis of Dehumanization,eligible,3,3,89219,ba27810e43a98c6dc8a2cdafb768408f0a3249d2dd92194a6ab43f28af5ff28c,True
+2003.03044,A Corpus for Detecting High-Context Medical Conditions in Intensive Care Patient Notes Focusing on Frequently Readmitted Patients,pilot_used,3,2,12455,94c3eb1e5717cb6961a75ae3926f226c7201b72a48303e671c690b34e6c8f6ae,False
+2003.03106,Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT,eligible,4,3,31167,49fc278f7a81c96c0e396d64de31ecb03478219a38ce1351f9aea272ecbb9eda,False
+2003.04642,A Framework for Evaluation of Machine Reading Comprehension Gold Standards,eligible,4,3,34273,c088768ad24db2f6217cf3d56725328f48396e52e62b03c0e1d46dc0527bfe25,True
+2003.04866,Multi-SimLex: A Large-Scale Evaluation of Multilingual and Cross-Lingual Lexical Semantic Similarity,eligible,2,1,103217,b6d2dc2795d075a67deceb0e0a4e4d9d90bf9df91b4b73de4aa6e74419e7f954,True
+2003.08380,TTTTTackling WinoGrande Schemas,eligible,1,1,9039,f872f7c5a5385925743aa318664f32c1cc6828201feee10351aca2edfdf2c485,False
+2003.08385,X-Stance: A Multilingual Multi-Target Dataset for Stance Detection,eligible,5,2,25758,e11cd04a7705d2679234d2d8a392eec70b1ae99dd6d12e4c7ac286d133523859,False
+2003.11562,Finnish Language Modeling with Deep Transformer Models,eligible,2,2,13758,9745922986023f64785bdb54614ee99b72ebbc40946f92e7c465a1a7af80fe9a,False
+2003.11563,Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data,pilot_used,3,1,30728,78772d21331ad1716eb6080b765ebb43037f9b8f86f537aba02cf3943da1d3e4,False
+2003.11645,Word2Vec: Optimal Hyper-Parameters and Their Impact on NLP Downstream Tasks,eligible,4,2,16592,2abc9ec11601349f3d1eec5e94120333462477e2d93e464f6295a4612cd23776,False
+2003.13032,Named Entities in Medical Case Reports: Corpus and Experiments,eligible,6,4,18288,d2fcd0c2e134c72db5aba253639dd4778ed4a714a698036d66375984f3dc5ac7,False
+2004.01853,STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization,eligible,2,2,30786,d7826a259dfe418959e572b0f1066ded94bbe3a759df22809ebab4117d710be6,True
+2004.01862,Identifying Radiological Findings Related to COVID-19 from Medical Literature,eligible,2,2,15777,0a26083447e575570187363c0880b3e8a78cc3911c011b3084406e1b39756e77,True
+2004.02192,Arabic Offensive Language on Twitter: Analysis and Experiments,eligible,5,5,30363,252c5a1ffe156d69acc29d9ed83a3d60c101194b38c0cccc95e0cff1e0ea498d,False
+2004.03354,Inexpensive Domain Adaptation of Pretrained Language Models: A Case Study on Biomedical Named Entity Recognition,eligible,2,1,20289,527e3f66b66834a4a5ab9bd576bdf085477df10c96e9fc5e43900a588c7bca78,True
+2004.04721,Translation Artifacts in Cross-lingual Transfer Learning,eligible,7,5,27771,a16e3629b035c3704a70175fec60869ad2d4274b6b5eacb5927c09e012f05c49,True

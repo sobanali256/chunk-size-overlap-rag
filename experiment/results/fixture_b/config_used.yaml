@@ -1,0 +1,98 @@
+protocol_version: '1.0'
+dataset:
+  name: QASPER v0.3
+  file: ../data/qasper_raw/qasper-dev-v0.3.json
+  file_sha256: null
+  split_used: dev
+  pilot:
+    eval_file: ../eval.jsonl
+    replay:
+      n_papers: 40
+      seed: 0
+  max_questions_per_paper: 5
+  sample:
+    n_papers: 100
+    seed: 20261017
+    procedure: sorted(eligible unused paper ids) -> random.Random(seed).shuffle ->
+      first n_papers
+tokenizer:
+  id: nomic-ai/nomic-embed-text-v1.5
+  revision: e9b6763023c676ca8431644204f50c2b100d9aab
+  add_special_tokens_for_chunking: false
+embedding:
+  id: nomic-ai/nomic-embed-text-v1.5
+  revision: e9b6763023c676ca8431644204f50c2b100d9aab
+  code_revision: 7710840340a098cfb869c4f65e87cf2b1b70caca
+  max_seq_length: 8192
+  dimension: 768
+  normalize: true
+  doc_prefix: 'search_document: '
+  query_prefix: 'search_query: '
+  batch_size: 16
+  device: cpu
+retrieval:
+  similarity: cosine (dot product of L2-normalised vectors), exact
+  scope: paper
+  tie_break: chunk position (stable sort)
+chunking:
+  sizes:
+  - 8
+  - 16
+  - 32
+  overlap_pct:
+  - 0
+  - 10
+  - 20
+  overlap_definition: overlap_tokens = round(size * pct / 100); stride = size - overlap_tokens
+modes:
+  primary:
+    type: token_budget
+    budget: 64
+  secondary:
+    type: fixed_k
+    k: 5
+metrics:
+  version: 2.0-token-positions
+  primary: complete
+  secondary:
+  - hit
+  - ev_recall
+  diagnostic:
+  - completable
+  - random_hit
+  - rr
+  - evidence_precision_unique
+  - redundancy
+  - retrieved_tokens
+  - retrieved_unique_tokens
+statistics:
+  unit: paper
+  primary_mode: primary
+  primary_metric: complete
+  comparisons:
+  - - s8_o10
+    - s8_o0
+  - - s8_o20
+    - s8_o0
+  - - s16_o10
+    - s16_o0
+  - - s16_o20
+    - s16_o0
+  - - s32_o10
+    - s32_o0
+  - - s32_o20
+    - s32_o0
+  - - s8_o0
+    - s16_o0
+  - - s16_o0
+    - s32_o0
+  test: paired sign-flip permutation test on per-paper differences, two-sided
+  n_permutations: 100000
+  permutation_seed: 1729
+  correction: holm
+  alpha: 0.05
+  bootstrap:
+    n_resamples: 10000
+    seed: 2718
+    method: percentile
+    level: 0.95

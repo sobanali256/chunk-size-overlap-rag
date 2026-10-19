@@ -1,0 +1,18 @@
+{"paper_id": "fx0", "question_id": "fx0:q0", "question": "what about violins have four strings and a bow sentence 3", "spans": [[219, 290]], "type": "factoid"}
+{"paper_id": "fx0", "question_id": "fx0:q1", "question": "what about bread rises because yeast makes gas sentence 11", "spans": [[797, 869]], "type": "factoid"}
+{"paper_id": "fx0", "question_id": "fx0:q2", "question": "what about solar panels convert light into power sentence 20", "spans": [[1457, 1531], [1823, 1896]], "type": "multi-part"}
+{"paper_id": "fx1", "question_id": "fx1:q0", "question": "what about glaciers carve deep valleys slowly sentence 3", "spans": [[219, 289]], "type": "factoid"}
+{"paper_id": "fx1", "question_id": "fx1:q1", "question": "what about apples grow on trees in the orchard sentence 11", "spans": [[797, 869]], "type": "factoid"}
+{"paper_id": "fx1", "question_id": "fx1:q2", "question": "what about violins have four strings and a bow sentence 20", "spans": [[1459, 1531], [1824, 1898]], "type": "multi-part"}
+{"paper_id": "fx2", "question_id": "fx2:q0", "question": "what about bread rises because yeast makes gas sentence 3", "spans": [[217, 288]], "type": "factoid"}
+{"paper_id": "fx2", "question_id": "fx2:q1", "question": "what about the river floods every spring season sentence 11", "spans": [[796, 869]], "type": "factoid"}
+{"paper_id": "fx2", "question_id": "fx2:q2", "question": "what about glaciers carve deep valleys slowly sentence 20", "spans": [[1458, 1529], [1825, 1897]], "type": "multi-part"}
+{"paper_id": "fx3", "question_id": "fx3:q0", "question": "what about apples grow on trees in the orchard sentence 3", "spans": [[215, 286]], "type": "factoid"}
+{"paper_id": "fx3", "question_id": "fx3:q1", "question": "what about solar panels convert light into power sentence 11", "spans": [[795, 869]], "type": "factoid"}
+{"paper_id": "fx3", "question_id": "fx3:q2", "question": "what about bread rises because yeast makes gas sentence 20", "spans": [[1455, 1527], [1823, 1894]], "type": "multi-part"}
+{"paper_id": "fx4", "question_id": "fx4:q0", "question": "what about the river floods every spring season sentence 3", "spans": [[215, 287]], "type": "factoid"}
+{"paper_id": "fx4", "question_id": "fx4:q1", "question": "what about violins have four strings and a bow sentence 11", "spans": [[797, 869]], "type": "factoid"}
+{"paper_id": "fx4", "question_id": "fx4:q2", "question": "what about apples grow on trees in the orchard sentence 20", "spans": [[1455, 1527], [1822, 1894]], "type": "multi-part"}
+{"paper_id": "fx5", "question_id": "fx5:q0", "question": "what about solar panels convert light into power sentence 3", "spans": [[217, 290]], "type": "factoid"}
+{"paper_id": "fx5", "question_id": "fx5:q1", "question": "what about glaciers carve deep valleys slowly sentence 11", "spans": [[798, 869]], "type": "factoid"}
+{"paper_id": "fx5", "question_id": "fx5:q2", "question": "what about the river floods every spring season sentence 20", "spans": [[1456, 1529], [1823, 1895]], "type": "multi-part"}
