@@ -1,7 +1,7 @@
 # Chunk size & overlap: clean re-run
 
 This folder is a reproducible re-run of the chunk-size / overlap retrieval experiment on a fresh sample of
-QASPER papers. The original pilot files in the parent folder are left untouched.
+QASPER papers. The pilot inputs it reuses (`eval.jsonl`, `corpus/`, `prepare_qasper.py`) are in the parent folder.
 
 | File | What it is |
 |---|---|
